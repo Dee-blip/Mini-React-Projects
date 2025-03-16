@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cross-btn {
+  cursor: pointer;
+}
+
+.right-btn {
+  cursor: pointer;
+}
