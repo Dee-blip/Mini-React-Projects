@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  height: 400px;
+  width: 100%;
+}
+
+.container {
+  position: relative;
+}
+
+.left-btn,
+.right-btn {
+  position: absolute;
+  background-color: black;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  top: 50%;
+  font-size: x-large;
+}
+
+.left-btn {
+  left: 1rem;
+  cursor: pointer;
+}
+
+.right-btn {
+  right: 1rem;
+  cursor: pointer;
+}
