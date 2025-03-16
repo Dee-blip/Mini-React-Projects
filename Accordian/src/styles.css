@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.accordion {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 5px;
+  position: relative;
+}
+
+span {
+  position: absolute;
+  right: 2rem;
+  cursor: pointer;
+}
